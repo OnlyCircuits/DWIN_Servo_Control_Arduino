@@ -1,6 +1,6 @@
 # DWIN_Servo_Control_Arduino
 
-Este es un tutorial para encender un LED con la pantalla DMG80480C050_03W de la empresa DWIN TECHNOLOGY.
+Este es un tutorial para manejar un servomotor con la pantalla DMG80480C050_03W de la empresa DWIN TECHNOLOGY.
 
 La interfaz está desarrollada mediante su software DGUS además de que se usó su adaptador serial.
 
@@ -12,8 +12,7 @@ Se usó la placa de desarrollo Arduino UNO programada con el software Arduino ID
 •	Protoboard
 •	Cables de conexión
 •	Arduino UNO
-•	Resistores 100 ohms
-•	LED
+•	Servomotor SG90
 •	Pantalla LCD DMG80480C050_03W
 
 https://www.dwin-global.com/5-inch-hmi-lcd-modulemodel-dmg80480c050_03wcommercial-grade-product/
